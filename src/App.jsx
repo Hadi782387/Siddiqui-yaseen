@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 giimport { useState, useEffect, useCallback } from "react";
+=======
+import { useState, useEffect, useCallback } from "react";
+>>>>>>> de35cdf046ec58bd0e7db8c69b1e75d9401c2204
 import { me, experience, projects, skills } from "./data";
 
 const me_av = { tone: "mint", initial: "Y" };
@@ -74,7 +78,10 @@ export default function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <div className="orbs" aria-hidden="true"><i className="orb o1" /><i className="orb o2" /><i className="orb o3" /><i className="orb o4" /></div>
+=======
+>>>>>>> de35cdf046ec58bd0e7db8c69b1e75d9401c2204
       {splash && <Splash onDone={done} />}
       <header className="navwrap">
         <div className="nav">
