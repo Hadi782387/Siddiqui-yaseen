@@ -129,8 +129,6 @@ a.cta{text-decoration:none;display:inline-block}.cta.soft{background:#fff;color:
 .small-big{font-size:19px;margin-bottom:14px}.small-big:last-child{margin:0}.inl{color:var(--ind);font-weight:700}
 .org{margin:0;font-weight:700}.exp .desc{margin:8px 0 0}
 .ghost{background:transparent}
-<<<<<<< HEAD
-
 /* ===== Glassmorphism layer (KILN palette: lilac, peach, mint, indigo) ===== */
 body{background:#f3f0ff}
 .orbs{position:fixed;inset:0;z-index:-1;overflow:hidden;background:linear-gradient(160deg,#f6f3ff,#ece8ff 55%,#f3f0ff)}
@@ -169,5 +167,3 @@ input:focus,textarea:focus,select:focus{outline:2px solid var(--ind);outline-off
 footer{border-top-color:rgba(255,255,255,.7)}
 @supports not (backdrop-filter:blur(1px)){.card,.nav,.menu,.exp,.fact,.pill{background:rgba(255,255,255,.92)}}
 @media(prefers-reduced-motion:reduce){.orb{animation:none!important}}
-=======
->>>>>>> de35cdf046ec58bd0e7db8c69b1e75d9401c2204
